@@ -1,0 +1,64 @@
+
+body {background-color: pink;}
+
+/* common is a class that has the general things to all*/
+.common{
+	font-size: 20px;
+	color: white;
+	margin: 20px;
+}
+
+.parent{
+
+}
+
+.first{
+	background-color: green;
+}
+
+.second{
+	background-color: red;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+
+.third{
+	background-color: blue;
+}
+
+.fourth{
+	background-color: yellow;
+	color: black;
+	position: absolute;
+}
+
+.fifth{
+	background-color: gray;
+}
+
+.sixth{
+	background-color: brown;
+}
+
+.seventh{
+	background-color: purple;
+	position: fixed;
+}
+
+.eight{
+	background-color: lime;
+	position: sticky;
+	bottom: 0px;
+}
+
+.nine{
+	background-color: navy;
+}
+
+.ten{
+	background-color: white;
+	color: black;
+	position: sticky;
+	top: 0px;
+}
