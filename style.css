@@ -1,3 +1,5 @@
+@import "color.css";
+
 
 body {background-color: pink;}
 
@@ -10,6 +12,20 @@ body {background-color: pink;}
 
 .parent{
 
+}
+
+
+.divbox{
+	display: inline-block;
+	border: 5px solid black;
+	height: 50px;
+	width: 50px;
+}
+
+.divbox1{
+	border: 5px solid black;
+	height: 50px;
+	width: 50px;
 }
 
 .first{
